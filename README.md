@@ -33,7 +33,7 @@ Twitter, LinkedIn, Facebook and Google Plus, just build SocialNetworkManager and
 
 ### Getting started
 
-  First of all, you need to register you application, please check this links: [Facebook](https://github.com/antonkrasov/AndroidSocialNetworks/wiki/Facebook), [Twitter](https://github.com/antonkrasov/AndroidSocialNetworks/wiki/Twitter), [LinkedIn](https://github.com/antonkrasov/AndroidSocialNetworks/wiki/LinkedIn), [GooglePlus](https://github.com/antonkrasov/AndroidSocialNetworks/wiki/Google-Plus)
+  First of all, you need to register you application, please check this links: [Facebook](https://github.com/panda919/AndroidSocialNetworks/wiki/Facebook), [Twitter](https://github.com/panda919/AndroidSocialNetworks/wiki/Twitter), [LinkedIn](https://github.com/panda919/AndroidSocialNetworks/wiki/LinkedIn), [GooglePlus](https://github.com/panda919/AndroidSocialNetworks/wiki/Google-Plus)
 
   
   Next you need to initialize **mSocialNetworkManager**. Build it with **SocialNetworkManager.Builder** and
