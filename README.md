@@ -13,13 +13,11 @@ Twitter, LinkedIn, Facebook and Google Plus, just build SocialNetworkManager and
 **Library is still in development so more features will be added soon**
 
   - [Features](#features)
-  - [Sample Application](#sample-application)
   - [Getting Started](#getting-started)
   - [Including in your project](#including-in-your-project)
   - [Important](#important)
   - [Dependencies](#dependencies)
-  - [Developed By](#developed-by)
-  - [License](#license)
+ 
 
 ### Features
 
